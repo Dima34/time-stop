@@ -1,0 +1,22 @@
+body{
+  background: #091921;
+}
+
+body, #root{
+  margin: 0;
+  height: 100vh;
+}
+
+#root{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.App {
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
